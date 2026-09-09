@@ -38,16 +38,15 @@ No external packages are required.
 Open a terminal in this project folder and run:
 
 ```bash
-python bank_system.py
+python _bank_system_refactored.py
 ```
 
 The program displays a menu with options for creating accounts, managing money, transferring funds, checking balances, viewing transaction history, and exiting.
 
 ## Project Files
 
-- `bank_system.py` - Current console banking application.
+- `bank_system.py` - Original console banking application.
 - `bank_system_refactored.py` - Refactored version with improved formatting, constants, documentation, and return values for account operations.
-- `TA1.py` - Original project file.
 
 ## Example Workflow
 
